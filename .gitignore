@@ -1,1 +1,7 @@
-.directory 
+*.pyc
+.directory
+.DS_Store
+.env
+.idea
+venv
+db.sqlite3 
